@@ -1,21 +1,45 @@
-MIT License
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 Copyright (c) 2026 HTREMIX
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Except where otherwise specifically identified, the original written
+text and original documentation published in this Agenion-preview
+repository are licensed under the Creative Commons Attribution 4.0
+International Public License (CC BY 4.0).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Official license (legal code):
+https://creativecommons.org/licenses/by/4.0/legalcode
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Human-readable summary:
+https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt the licensed material, including commercially,
+under the terms of CC BY 4.0. Appropriate attribution must be provided,
+the license must be linked, and changes must be indicated. Attribution
+must not suggest the original author endorses a derivative or its use.
+
+Suggested attribution:
+"Agenion-preview documentation" by HTREMIX,
+https://github.com/HTREMIX/Agenion-preview,
+licensed under CC BY 4.0,
+https://creativecommons.org/licenses/by/4.0/.
+Indicate any modifications when reusing or adapting the work.
+
+SCOPE AND EXCLUSIONS
+
+This license covers only material actually published here that the
+licensor has the rights to license. It does not license:
+
+- Any unpublished or private Agenion repository contents, software,
+  source code, execution contracts, data, or implementation details.
+- Third-party material unless its rights holder has separately
+  authorized licensing under these terms.
+- Trademark rights in the Agenion name, logo, or other brand identifiers.
+  No endorsement or trademark permission is granted by this notice.
+
+If any future file, image, or asset is subject to different permissions,
+its licensing status should be marked explicitly alongside that item.
+
+The official CC BY 4.0 legal code governs in the event of a conflict with
+this explanatory notice. The copyright license applies only to rights
+that the licensor is entitled to grant.
