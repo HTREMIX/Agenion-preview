@@ -1,3 +1,4 @@
-ChatGPT GitHub connector write verification
+ChatGPT GitHub connector create/update verification
 Date: 2026-10-29
-Scope: isolated test branch; no production files changed.
+Scope: isolated test branch; production main unchanged.
+Stage: SECOND WRITE VERIFIED.
