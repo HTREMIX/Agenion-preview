@@ -1,0 +1,3 @@
+ChatGPT GitHub connector write verification
+Date: 2026-10-29
+Scope: isolated test branch; no production files changed.
